@@ -18,3 +18,5 @@
 [One of my favorite comic book artists] (http://reyyy.com/)
 
 ![screenshot of my directory](./images/screenshot-1.png)
+
+Since I already posted Corey Reyyy Lewis' artist page above, I snooped back in time to find his original website from 2005. This is about when I started following him, so it was quite a blast from the past. I needed a site that started before 2000, so I checked out the first MTV webpage from 1996. Speaking of blasts from the past, they're talking about Hootie on it.
