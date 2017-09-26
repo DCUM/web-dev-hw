@@ -1,18 +1,17 @@
-# My First README.md
-## **Delaney Cummins**
-1. This is fun so far.
-2. Starting to grasp the baby steps.
-3. But still unable to help any one in the class chat with my limited knowledge!
+# This is a read me for project 2
 
+Wasn't sure if the how to and pictures had to be our own, so I took them off the internet.
 
-* *Hope this readme is correct*
-* Does this pass as an unordered list?
-* I think so!
+## Html coding
 
->Block quotes look fancy! I'm going to ramble here to check out that sick wrap around. Awwww yeah
+I think I'm coding correctly, but won't be sure until I push it.
 
+### embedding images
 
-***
-*Is this text too far from the horizontal line or is it just me?*
+I'm not sure how this is gonna turn out. Even simple image embedding hasn't worked for me in the past.
 
-[One of my favorite comic book artists] (http://reyyy.com/)
+### What's done is done
+
+I included the pictures and almost all of the html requirements, but I'm running out of time and worried that if I don't start trying to push it into github now, I'll run out of time.
+
+Wish me luck
